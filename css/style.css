@@ -41,7 +41,8 @@ body{
 /* banner section start */
 
 .banner{
-    background: radial-gradient(83.85% 128.37% at 37.1% 10.23%, #082859 0%, #07234D 20.14%, #04152E 56.38%, #000000 100%);
+    /* background: radial-gradient(83.85% 128.37% at 37.1% 10.23%, #082859 0%, #07234D 20.14%, #04152E 56.38%, #000000 100%); */
+    background-color:navy ;
     background-position: center;
     background-repeat: no-repeat;
     background-size:cover ;

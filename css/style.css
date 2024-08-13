@@ -103,17 +103,28 @@ body{
 .contact_btn{
     border: 1px solid #6A55EA;
 }
+
 .contact_btn:hover{
     background-color: #6A55EA;
 }
 
 
-.input-group button{
+.button_analyze{
     color: white;
     border: 1px solid #6A55EA;
     background-color: #6A55EA;
+    padding: 10px 20px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    border-radius: 10px;
+    margin-left: 10px;
     
 }
+.button_analyze:hover{
+    background-color: red;
+}
+
 .input-group input{
     padding:20px 15px;
 }
